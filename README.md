@@ -1,2 +1,1 @@
-# xiaoqiang
-site test
+index
